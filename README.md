@@ -1,4 +1,5 @@
 # Quasi
+# Merhaba Saygı Değer Quası kullanıcısı! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
    * Desteklenen özellikler:
    * Keylogger
    * Download
@@ -16,7 +17,6 @@
    * Python 3.7.x >= 
 # Desteklenen İşletim Sistemi Mimarisi
    * X64
-# Merhaba Saygı Değer Quası kullanıcısı! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # Gereksinimler
 * Crypto
 * cx_Freeze
