@@ -1,4 +1,8 @@
 # Quasi
+# Basit Kullanım
+```sh
+C:\Users\user\Quasi\python main.py
+```
 # Merhaba Saygı Değer Quası kullanıcısı! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
    * Desteklenen özellikler:
    * Keylogger
@@ -43,9 +47,6 @@
 * enum
 * io
 
-```sh
-C:\Users\user\Quasi\python main.py
-```
 # Networking Modülü
   * Ağ için basic seviye modüldür ip kontrolü vb. ip adresi işlemleri içindir
   * kullanım
