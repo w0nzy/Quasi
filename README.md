@@ -1,6 +1,6 @@
 # Quasi
 # Basit Kullanım
-```sh
+```bash
 C:\Users\user\Quasi\python main.py
 ```
 # Merhaba Saygı Değer Quası kullanıcısı! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
