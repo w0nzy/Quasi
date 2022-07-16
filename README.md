@@ -1,5 +1,5 @@
 # Quasi
-<img src="https://static.vecteezy.com/ti/vecteur-libre/p1/2058317-retro-futuriste-annees-80-fond-gratuit-vectoriel.jpg" width=200 />
+<img src="https://static.vecteezy.com/ti/vecteur-libre/p1/2058317-retro-futuriste-annees-80-fond-gratuit-vectoriel.jpg" width="200" />
 # Basit Kullanım
 ```bash
 C:\Users\user\Quasi\python main.py
