@@ -1,4 +1,13 @@
 # Quasi
+   * Desteklenen özellikler:
+   * Keylogger
+   * Download
+   * Upload
+   * Msgbox
+   * Shell Executing
+   * Directory listing
+   * pwd 
+   * cd
 # Geçerli İşletim Sistemi
    * Windows
 # Desteklenen İşletim Sistemi Versiyonu
@@ -74,7 +83,8 @@ C:\Users\user\Quasi\python main.py
    open -f Dosya okumak için
    > open -f AnotherFile
    [-] Hatalı seçim: AnotherFile sadece şunları seçebilirsin:main.ico test.py
-   >
+   > open -f main.ico
+   Dosya: main.ico
    ```
 # Şuan bu kadarlık ilerde proje tam bittiğinde bütün hepsi barındıracak şekilde yazılacaktır
 
