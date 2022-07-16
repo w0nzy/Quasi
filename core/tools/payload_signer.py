@@ -2,7 +2,7 @@ import os
 import quasi
 import subprocess
 from argparse import ArgumentParser
-from core.utils import get_framework_path
+from core.utils import get_framework_dir
 from core.utils.printing import print_status,print_failure,print_succes
 
 
