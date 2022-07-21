@@ -3,7 +3,18 @@
 <img src="https://static.vecteezy.com/ti/vecteur-libre/p1/2058317-retro-futuriste-annees-80-fond-gratuit-vectoriel.jpg" width="1000"/>
 
 
-
+# Not
+  * Güncelleme:1.9.0.1.2 
+    * Soket verilerini paketlemek için kullanılan JSON kütüphanesi iptal edildi
+    * Bunun yerine MARSHAL kütüphanesi kullanıldı
+    * Veriler daha hızlı bir şekilde paketlenilebiliyor
+    - With Marshal
+      ----- MS Test -----
+      -0.3190724849700928 ms:marshal
+    * Without Marshal(Base16)
+      ----- MS Test -----
+      -3.8428239822387695 ms:b16
+    
 
 
 
